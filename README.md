@@ -40,6 +40,14 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-07
+
+- **WarHeatMap map accuracy.** Checked 6,482 plotted events against national border data, corrected 34 misplaced markers, and added a placement guard so the same kind of error is caught when events arrive.
+- **WarHeatMap hardening.** Tightened access checks on the app's administrative functions. The full test suite passed twice, and the hourly news ingest and ticker kept running afterward.
+- **Methodology page.** Added a Sources section listing the approved outlets by name, with approved and banned counts.
+
+These lines are the seat's own report.
+
 ### 2026-11-06
 
 - **WarHeatMap.** Fixed an event side panel that rendered clipped when opened from a direct link, and corrected one event's title and description to match its verified casualty toll.
