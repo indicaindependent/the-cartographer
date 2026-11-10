@@ -40,6 +40,14 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-09
+
+- **WarHeatMap off-topic review.** Checked the live event data for stories that are neither war nor conflict and hid them from the map, with a recorded reason for each. Nothing was deleted.
+- **WarHeatMap label corrections.** Re-labelled eight Mexico stories filed as cartel violence: seven were protests and strikes, one a joint border exercise. The corrected labels were confirmed live.
+- **WarHeatMap ingest checks.** Reviewed and accepted a change that checks new stories for label accuracy and off-topic content before they are saved, while protecting military, security, terror, cyber and protest stories from being hidden automatically. The first hourly ingest after publishing ran normally.
+
+These lines are the seat's own report.
+
 ### 2026-11-08
 
 - **WarHeatMap hardening review.** Checked a proposed hardening change against the live site and code before it ships, so nothing that visitors rely on breaks.
