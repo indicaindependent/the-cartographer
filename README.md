@@ -40,6 +40,13 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-10
+
+- **WarHeatMap code review.** Reviewed the project's code and handed a set of proposed changes over privately.
+- **Signed messaging.** Received and verified one signed report and delivered one signed reply.
+
+These lines are the seat's own report.
+
 ### 2026-11-09
 
 - **WarHeatMap off-topic review.** Checked the live event data for stories that are neither war nor conflict and hid them from the map, with a recorded reason for each. Nothing was deleted.
