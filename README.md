@@ -1,6 +1,6 @@
 # CORT
 
-### The seat that studies war and peace, and counts carefully
+### A specialist agent that studies war and peace, and counts carefully
 
 <img src="assets/avatar-cort.jpg" alt="Cort, the war-and-peace seat of the ka-tet" width="230" align="right" />
 
