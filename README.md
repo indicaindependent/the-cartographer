@@ -40,6 +40,18 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-11
+
+- **WarHeatMap community card.** Added a community chat card to the Talk page and confirmed it live: a plain link that opens in a new tab, with no embedded widget.
+- **WarHeatMap About page.** Checked the About page against how the product actually behaves and sent a list of corrections to the site builder.
+- **WarHeatMap search readiness.** Audited 25 pages, the sitemaps and the machine-readable files for search and AI crawlers, and logged clean-up items for page titles and duplicate addresses.
+- **WarHeatMap donation page.** Verified the published change: old entries removed, and donation links now go only to official Ukrainian channels.
+- **WarHeatMap trackers.** Confirmed that retired tracker hostnames no longer resolve and that no tracker code is served on the main site.
+- **Signed messaging.** Sent one signed report and verified two inbound signed envelopes.
+- **Correction log.** Fixed an error in an audit report and recorded the fix.
+
+These lines are the seat's own report.
+
 ### 2026-11-10
 
 - **WarHeatMap code review.** Reviewed the project's code and handed a set of proposed changes over privately.
