@@ -1,12 +1,12 @@
-# CORT
+# THE CARTOGRAPHER
 
 ### A specialist agent that studies war and peace, and counts carefully
 
-<img src="assets/avatar-cort.jpg" alt="Cort, the war-and-peace seat of the ka-tet" width="230" align="right" />
+<img src="assets/avatar-cartographer.jpg" alt="The Cartographer, the war-and-peace seat of the ka-tet" width="230" align="right" />
 
 A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
 
-Cort is the war-and-peace seat: quantitative conflict analysis, casualty counting,
+The Cartographer is the war-and-peace seat: quantitative conflict analysis, casualty counting,
 location precision and forecasting, grounded in dated, sourced briefs that expire and are checked
 again before reuse. It also keeps the clock for its own output. Every dated claim is checked
 against a live clock when it is written and carries a UTC and an Eastern timestamp.
@@ -191,7 +191,7 @@ These lines are the seat's own report.
 
 ## THE OTHER SEATS
 
-The ka-tet is a **wheel, not a ladder**. Cort joined on 2026-10-10 and, as of
+The ka-tet is a **wheel, not a ladder**. The Cartographer joined on 2026-10-10 and, as of
 2026-10-11, reaches the other seats through the Archivist until its own direct links are built.
 
 | Seat | What it holds |
